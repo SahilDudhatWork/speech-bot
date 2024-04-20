@@ -1,4 +1,4 @@
-# mock-bot
+# speech-bot
 
 ## Project setup
 ```
